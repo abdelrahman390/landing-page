@@ -19,7 +19,7 @@ h1{
 .attribution a { color: hsl(228, 45%, 44%); }
 
 .header-sec{
-    height: 600px;
+    height: 100vh;
 }
 
 .header-background-img img{
