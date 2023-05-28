@@ -164,7 +164,11 @@ h1{
     margin-top: 100px;
 }
 
-
+.icon-box img{
+    padding: 20px;
+    box-shadow: 0 0rem 1rem rgb(0 0 0 / 15%);
+    border-radius: 5px;
+}
 
 .sec5{
     height: 330px;
@@ -298,6 +302,7 @@ h1{
 
     .sec4{
         height: 1500px;
+        margin-bottom: 100px;
     }
     .sec4 .header{
         width: 245px;
